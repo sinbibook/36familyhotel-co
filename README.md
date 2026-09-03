@@ -1,1 +1,1 @@
-# 36familyhotel-co
+# template-fullpage-visual
