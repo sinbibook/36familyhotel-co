@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.16.0",
-    "generatedAt": "2026-09-03T06:49:15.279884321Z",
+    "version": "1.17.0",
+    "generatedAt": "2026-09-03T06:54:27.732827971Z",
     "templateType": "fullpage_mood",
     "propertyId": "1d639621-9275-42e0-88b6-d7d51818fdca",
     "homepageId": "268e84a3-a552-4402-8413-1079c36abdca"
@@ -20,7 +20,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 19시 00분\n※ 19:00 이후 입실 예정인 경우 숙소에 사전 문의해 주세요.",
-    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 19시 00분\n※ 19:00 이후 입실 예정인 경우 숙소에 사전 문의해 주세요.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 영유아도 객실 기준 인원 및 최대 인원에 포함됩니다.\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 이용 장소: 각 객실 테라스\n- 바베큐 형태: 전기그릴 대여\n- 이용 요금: 20,000원 (1박기준/현장결제)\n- 신청 방법: 체크인 시 프런트 신청\n- 이용 시간: 입실 후~22:00\n※ 심한 비 또는 강풍 등 기상 악화 시 이용이 제한될 수 있습니다.\n※ 대여한 전기그릴은 퇴실 시 안내데스크에 반납해 주세요.\n\n[공용수영장]\n[실내 미온수 수영장]\n- 운영 기간: 4월~10월\n- 이용 시간: 13:00~19:00\n- 수온: 28도\n- 이용 요금: 무료\n- 이용 복장: 수영복, 수영모 반드시 착용\n- 공용 화장실, 공용 샤워장, 탈수기 보유\n\n[부대시설]\n[카페&바]\n- 월~목 운영 시간: 09:00~19:00\n- 금~일 운영 시간: 09:00~22:00\n\n[무인 편의점]\n- 운영 시간: 09:00~22:00\n- 판매 품목: 일회용품, 스낵, 음료, 아이스크림, 냉동식품, 주류 등\n\n[키즈카페]\n- 이용 대상: 숙박객\n- 이용 요금: 무료\n- 운영 시간: 09:00~22:00\n\n[로비/공용시설]\n- 공용 화장실, 장애인 화장실 보유\n\n[편의 및 주변 시설]\n[갯벌체험]\n- 대여 품목: 장화, 장갑, 호미, 바구니\n- 장비 대여 요금: 1인 5,000원\n※ 물때와 기상 조건에 따라 운영 여부가 달라질 수 있습니다.\n\n[프라이빗 해변]\n- 숙박객 전용 해변 이용 가능\n\n[기타 편의시설]\n- 엘리베이터 보유\n- 대여 가능 품목: 젖병소독기, 유아용 욕조 (요청 시 제공)\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료",
+    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 19시 00분\n※ 19:00 이후 입실 예정인 경우 숙소에 사전 문의해 주세요.\n\n[인원추가요금]\n※ 영유아도 객실 기준 인원 및 최대 인원에 포함됩니다.\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 이용 장소: 각 객실 테라스\n- 바베큐 형태: 전기그릴 대여\n- 이용 요금: 20,000원 (1박기준/현장결제)\n- 신청 방법: 체크인 시 프런트 신청\n- 이용 시간: 입실 후~22:00\n※ 심한 비 또는 강풍 등 기상 악화 시 이용이 제한될 수 있습니다.\n※ 대여한 전기그릴은 퇴실 시 안내데스크에 반납해 주세요.\n\n[공용수영장]\n[실내 미온수 수영장]\n- 운영 기간: 4월~10월\n- 이용 시간: 13:00~19:00\n- 수온: 28도\n- 이용 요금: 무료\n- 이용 복장: 수영복, 수영모 반드시 착용\n- 공용 화장실, 공용 샤워장, 탈수기 보유\n\n[부대시설]\n[카페&바]\n- 월~목 운영 시간: 09:00~19:00\n- 금~일 운영 시간: 09:00~22:00\n\n[무인 편의점]\n- 운영 시간: 09:00~22:00\n- 판매 품목: 일회용품, 스낵, 음료, 아이스크림, 냉동식품, 주류 등\n\n[키즈카페]\n- 이용 대상: 숙박객\n- 이용 요금: 무료\n- 운영 시간: 09:00~22:00\n\n[로비/공용시설]\n- 공용 화장실, 장애인 화장실 보유\n\n[편의 및 주변 시설]\n[갯벌체험]\n- 대여 품목: 장화, 장갑, 호미, 바구니\n- 장비 대여 요금: 1인 5,000원\n※ 물때와 기상 조건에 따라 운영 여부가 달라질 수 있습니다.\n\n[프라이빗 해변]\n- 숙박객 전용 해변 이용 가능\n\n[기타 편의시설]\n- 엘리베이터 보유\n- 대여 가능 품목: 젖병소독기, 유아용 욕조 (요청 시 제공)\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료",
     "reservationGuide": "",
     "province": "도/시",
     "city": "시/군/구",
@@ -77,8 +77,8 @@
       {
         "id": "4fcc91a7-bde8-49df-ae7c-ef303cb82477",
         "name": "오션뷰",
-        "description": "",
-        "usageGuide": "",
+        "description": "창 너머로 펼쳐지는 풍경이\n머무는 시간의 흐름을 한층 더 여유롭게 만듭니다.\n자연을 바라보며 온전히 쉬어가는 순간을 경험해보세요.",
+        "usageGuide": "    ",
         "displayOrder": 0,
         "images": [
           {
@@ -587,7 +587,7 @@
           {
             "id": "af683705-b210-4cf5-96df-368dca676b19",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/2aewWSkBiysJ.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -597,7 +597,7 @@
           {
             "id": "8e457e3d-d294-42e9-8735-b4f25a78b93c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/p7t8ei03jWkz.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -605,7 +605,7 @@
           {
             "id": "47f47f17-2988-41eb-bd07-ce3a82777cba",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/LZ16tYxeB4qS.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -613,7 +613,7 @@
           {
             "id": "19344491-06b0-4a67-8824-8a310f35ce75",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/9AwVEGFRvC6e.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -621,7 +621,7 @@
           {
             "id": "4b4e9d16-374d-4f81-99f1-916d50e761a4",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/1G2MOJk9ZBX3.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -629,7 +629,7 @@
           {
             "id": "9c61f0fe-be20-4d8e-8eaa-01c7521198dc",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/jer04cCNB7qE.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -637,7 +637,7 @@
           {
             "id": "4db7f61b-af19-441c-9a1d-b224e4d1c8e6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/TcL3StIONrQk.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -645,7 +645,7 @@
           {
             "id": "975617e7-5daa-4f74-86b7-308045b3277d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/VktLTHSP5E0p.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -653,7 +653,7 @@
           {
             "id": "88bb22ca-724b-4ce1-80dc-f87104c27ec4",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/txPlespuYiVj.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -661,7 +661,7 @@
           {
             "id": "0518d172-ad64-4aad-897a-93c2d3e3f40c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/z5wUZpkT21Ye.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -669,7 +669,7 @@
           {
             "id": "d335460b-a40b-45c7-9b1a-d1348b1397b0",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/w6VkK1SxUpi0.jpg",
-            "sortOrder": 11,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -677,7 +677,7 @@
           {
             "id": "911aaeff-26c7-4e75-8bb7-b8eac6d2530f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/D1m9uAIR6stP.jpg",
-            "sortOrder": 12,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -685,7 +685,7 @@
           {
             "id": "0b139d8c-c94c-4405-bd6b-ae9012430800",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/svHUYWGbhrfC.jpg",
-            "sortOrder": 14,
+            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -693,7 +693,7 @@
           {
             "id": "6f1aa10e-5ac8-466b-b0c8-bfb000e42a45",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/sByqkwJcILad.jpg",
-            "sortOrder": 15,
+            "sortOrder": 12,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -701,7 +701,7 @@
           {
             "id": "d87b337b-9053-4ea9-a519-5930e5aebc44",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/sL4AzGCQcwBu.jpg",
-            "sortOrder": 16,
+            "sortOrder": 13,
             "description": "",
             "isSelected": true,
             "blockId": null
