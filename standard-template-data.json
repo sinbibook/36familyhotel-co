@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.27.0",
-    "generatedAt": "2026-09-03T08:17:57.501000040Z",
+    "version": "1.28.0",
+    "generatedAt": "2026-09-03T08:22:39.369815502Z",
     "templateType": "fullpage_mood",
     "propertyId": "1d639621-9275-42e0-88b6-d7d51818fdca",
     "homepageId": "268e84a3-a552-4402-8413-1079c36abdca"
@@ -719,7 +719,7 @@
       "description": "침대룸(퀸침대2)+주방1+화장실1\r\n12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,드라이기,와이파이,바디워시,샴푸,식탁,인덕션,커피포트,타월,테라스",
       "roomInfo": "",
       "usageGuide": "",
-      "group": null,
+      "group": "스위트",
       "size": 66.12,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
@@ -906,7 +906,7 @@
       "description": "침대룸(퀸침대2)+주방1+화장실1\r\n12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,드라이기,와이파이,바디워시,샴푸,식탁,인덕션,커피포트,타월,테라스",
       "roomInfo": "",
       "usageGuide": "",
-      "group": null,
+      "group": "스위트",
       "size": 66.12,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
