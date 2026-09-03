@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.25.0",
-    "generatedAt": "2026-09-03T07:11:40.333375226Z",
+    "version": "1.26.0",
+    "generatedAt": "2026-09-03T07:18:25.088623474Z",
     "templateType": "fullpage_mood",
     "propertyId": "1d639621-9275-42e0-88b6-d7d51818fdca",
     "homepageId": "268e84a3-a552-4402-8413-1079c36abdca"
@@ -5826,9 +5826,17 @@
                     "blockId": null
                   },
                   {
+                    "id": "1029459d-926a-4618-abd1-850d431bdb9e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/index_gallery/1788419899193-rqrfkfxvbe.jpg",
+                    "sortOrder": 5,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
                     "id": "562c8c15-c562-4a94-9e2d-648042b04ae1",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/index_gallery/1788401808161-pae82tvucl.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 6,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -5836,7 +5844,7 @@
                   {
                     "id": "a89aae1e-195c-420b-a252-2ec808bd26b3",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/index_gallery/1788401808170-1ym10mhy68.jpg",
-                    "sortOrder": 6,
+                    "sortOrder": 7,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -5844,7 +5852,7 @@
                   {
                     "id": "b225224a-4e79-48fc-9380-601265a5cda0",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/index_gallery/1788401808167-9chuza8ooj.jpg",
-                    "sortOrder": 7,
+                    "sortOrder": 8,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
