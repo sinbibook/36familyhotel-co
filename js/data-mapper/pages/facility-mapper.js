@@ -115,7 +115,14 @@ class FacilityMapper extends BaseDataMapper {
 
         // 이용 안내
         const guideEl = this.safeSelect('[data-facility-usage-guide]');
-        if (guideEl) guideEl.innerHTML = this._formatTextWithLineBreaks(facility.usageGuide, '이용 안내');
+        const guideSection = guideEl?.closest('.bg6');
+        const usageGuide = (facility.usageGuide || '').trim();
+        if (guideSection) {
+            guideSection.style.display = usageGuide ? '' : 'none';
+        }
+        if (guideEl) {
+            guideEl.innerHTML = usageGuide ? this._formatTextWithLineBreaks(usageGuide, '') : '';
+        }
 
         // 이미지 3장
         const images = this.getFacilityImages(facility);
