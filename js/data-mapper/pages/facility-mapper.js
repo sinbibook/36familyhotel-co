@@ -175,14 +175,11 @@ class FacilityMapper extends BaseDataMapper {
                 ? `url("${url}")`
                 : `url("${ImageHelpers.EMPTY_IMAGE_WITH_ICON}")`;
             if (!url) div.classList.add('empty-image-placeholder');
-            if (ariaHidden) {
-                div.setAttribute('aria-hidden', 'true');
-            } else {
-                div.style.cursor = 'pointer';
-                div.addEventListener('click', () => {
-                    window.location.href = `./facility.html?id=${facility.id}`;
-                });
-            }
+            if (ariaHidden) div.setAttribute('aria-hidden', 'true');
+            div.style.cursor = 'pointer';
+            div.addEventListener('click', () => {
+                window.location.href = `./facility.html?id=${facility.id}`;
+            });
             const label = document.createElement('div');
             label.className = 'specials-01';
             label.textContent = `Specials ${String(index + 1).padStart(2, '0')}`;
