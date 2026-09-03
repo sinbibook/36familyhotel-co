@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.12.0",
-    "generatedAt": "2026-09-03T06:33:11.746286268Z",
+    "version": "1.13.0",
+    "generatedAt": "2026-09-03T06:38:42.620571196Z",
     "templateType": "fullpage_mood",
     "propertyId": "1d639621-9275-42e0-88b6-d7d51818fdca",
     "homepageId": "268e84a3-a552-4402-8413-1079c36abdca"
@@ -5986,43 +5986,51 @@
               },
               "about": [
                 {
-                  "title": "",
+                  "title": "바다와 나란히 머무는 시간",
                   "images": [
                     {
-                      "id": "b59e85db-b058-4a9d-a7ec-4a22e7e7c90b",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/main_about/1788415199572-ew5332zvsh.jpg",
+                      "id": "9f491a45-1c73-4c39-b255-9d36fd46388d",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/main_about/1788415199351-4zj4bh142j.jpg",
                       "sortOrder": 0,
                       "description": "",
                       "isSelected": true,
                       "blockId": "5ec509e3-dcbe-4eba-aebe-104ee1fd5b43"
                     },
                     {
-                      "id": "5e9356f5-2973-49df-a3c0-16410e061738",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/main_about/1788415199346-1j1kcey092.jpg",
+                      "id": "b8d5a0b0-af5d-46e1-a15a-691a37848496",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/main_about/1788417518917-41rjnt7ti9.jpg",
                       "sortOrder": 1,
                       "description": "",
                       "isSelected": true,
                       "blockId": "5ec509e3-dcbe-4eba-aebe-104ee1fd5b43"
                     },
                     {
-                      "id": "9f491a45-1c73-4c39-b255-9d36fd46388d",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/main_about/1788415199351-4zj4bh142j.jpg",
+                      "id": "6915c9ce-7dbe-4a90-acec-62a79ff43575",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/main_about/1788417518913-snxl1fkwcw.jpg",
                       "sortOrder": 2,
                       "description": "",
                       "isSelected": true,
                       "blockId": "5ec509e3-dcbe-4eba-aebe-104ee1fd5b43"
                     },
                     {
-                      "id": "b72949e0-907d-4d4d-93c6-1ddbe09bff9b",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/main_about/1788415199574-9p6yaldlo5.jpg",
+                      "id": "599afd9f-a26f-47fc-bf67-e44ffd5c60ec",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/main_about/1788417518916-99nwsr32a9.jpg",
                       "sortOrder": 3,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "5ec509e3-dcbe-4eba-aebe-104ee1fd5b43"
+                    },
+                    {
+                      "id": "48e7bd69-7622-495b-b104-01197a1d4102",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/main_about/1788417518915-mfz0i4gc6e.jpg",
+                      "sortOrder": 4,
                       "description": "",
                       "isSelected": true,
                       "blockId": "5ec509e3-dcbe-4eba-aebe-104ee1fd5b43"
                     }
                   ],
                   "blockId": "5ec509e3-dcbe-4eba-aebe-104ee1fd5b43",
-                  "description": ""
+                  "description": "창 너머로 영흥도의 바다가 펼쳐지고\n잔잔한 파도와 함께 하루도 천천히 흐릅니다.\n가족과 마주하는 평범한 순간까지\n오래 기억될 여행이 되는 곳, 영흥도 36스테이입니다."
                 }
               ]
             }
