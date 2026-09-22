@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.44.0",
-    "generatedAt": "2026-09-22T06:37:44.330099410Z",
+    "version": "1.45.0",
+    "generatedAt": "2026-09-22T06:45:59.939802615Z",
     "templateType": "fullpage_mood",
     "propertyId": "1d639621-9275-42e0-88b6-d7d51818fdca",
     "homepageId": "268e84a3-a552-4402-8413-1079c36abdca"
@@ -7944,7 +7944,8 @@
               "blockId": "7a0d0dc9-bd69-4bb8-8f9d-2a26c436e647",
               "category": "roomtype_floorplan"
             }
-          ]
+          ],
+          "groupName": "디럭스"
         },
         {
           "id": "98ff50e5-f855-4d04-8358-c21da77de825",
@@ -8066,7 +8067,8 @@
               "blockId": "98ff50e5-f855-4d04-8358-c21da77de825",
               "category": "roomtype_floorplan"
             }
-          ]
+          ],
+          "groupName": "디럭스"
         },
         {
           "id": "b9ca6a12-9773-43a5-abaf-966920c01b65",
@@ -8197,7 +8199,8 @@
               "blockId": "b9ca6a12-9773-43a5-abaf-966920c01b65",
               "category": "roomtype_floorplan"
             }
-          ]
+          ],
+          "groupName": "디럭스"
         },
         {
           "id": "0804b73b-dd82-48b7-8d5b-2c45f61153b9",
@@ -8319,7 +8322,8 @@
               "blockId": "0804b73b-dd82-48b7-8d5b-2c45f61153b9",
               "category": "roomtype_floorplan"
             }
-          ]
+          ],
+          "groupName": "디럭스"
         },
         {
           "id": "5fb2ffa8-6162-437f-9d9c-71a4f27a7f57",
@@ -8450,7 +8454,8 @@
               "blockId": "5fb2ffa8-6162-437f-9d9c-71a4f27a7f57",
               "category": "roomtype_floorplan"
             }
-          ]
+          ],
+          "groupName": "디럭스"
         },
         {
           "id": "7b268d40-73a6-408b-bf7a-abc2b8c6f482",
@@ -8572,7 +8577,8 @@
               "blockId": "7b268d40-73a6-408b-bf7a-abc2b8c6f482",
               "category": "roomtype_floorplan"
             }
-          ]
+          ],
+          "groupName": "디럭스"
         },
         {
           "id": "04c10913-f3bc-49d8-a148-72fbf61c8ec8",
@@ -8703,7 +8709,8 @@
               "blockId": "04c10913-f3bc-49d8-a148-72fbf61c8ec8",
               "category": "roomtype_floorplan"
             }
-          ]
+          ],
+          "groupName": "디럭스"
         },
         {
           "id": "708b02a8-e879-41b0-a43f-284c5d975abe",
@@ -8825,7 +8832,8 @@
               "blockId": "708b02a8-e879-41b0-a43f-284c5d975abe",
               "category": "roomtype_floorplan"
             }
-          ]
+          ],
+          "groupName": "디럭스"
         },
         {
           "id": "0eeb29a9-9bc8-400e-8575-3665f79de4ea",
@@ -8956,7 +8964,8 @@
               "blockId": "0eeb29a9-9bc8-400e-8575-3665f79de4ea",
               "category": "roomtype_floorplan"
             }
-          ]
+          ],
+          "groupName": "디럭스"
         },
         {
           "id": "90801d70-2188-45a8-9eba-0d7b7baaf827",
@@ -9087,7 +9096,8 @@
               "blockId": "90801d70-2188-45a8-9eba-0d7b7baaf827",
               "category": "roomtype_floorplan"
             }
-          ]
+          ],
+          "groupName": "디럭스"
         },
         {
           "id": "8fe023b7-146c-4dab-86b1-6ac9c8a7a3ff",
@@ -9218,7 +9228,8 @@
               "blockId": "8fe023b7-146c-4dab-86b1-6ac9c8a7a3ff",
               "category": "roomtype_floorplan"
             }
-          ]
+          ],
+          "groupName": "디럭스"
         },
         {
           "id": "27a8184b-98a9-4359-ad5e-bcb8984fb6b1",
@@ -9229,69 +9240,6 @@
               "sortOrder": 22,
               "description": "",
               "isSelected": true,
-              "blockId": "27a8184b-98a9-4359-ad5e-bcb8984fb6b1",
-              "category": "roomtype_thumbnail"
-            },
-            {
-              "id": "beba2ca3-767c-4b11-b88f-327fe91f1c7f",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/roomtype_thumbnail/1788400974983-jo16s6iuwh.jpg",
-              "sortOrder": 23,
-              "description": "",
-              "isSelected": false,
-              "blockId": "27a8184b-98a9-4359-ad5e-bcb8984fb6b1",
-              "category": "roomtype_thumbnail"
-            },
-            {
-              "id": "cb99e8e3-ad0e-4901-acc9-20c1fef514b0",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/roomtype_thumbnail/1788400974964-icpbrqzegq.jpg",
-              "sortOrder": 24,
-              "description": "",
-              "isSelected": false,
-              "blockId": "27a8184b-98a9-4359-ad5e-bcb8984fb6b1",
-              "category": "roomtype_thumbnail"
-            },
-            {
-              "id": "7220ab6c-8b89-4e0c-ba34-94161a4f0798",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/roomtype_thumbnail/1788400974557-o03mg5alo0.jpg",
-              "sortOrder": 25,
-              "description": "",
-              "isSelected": false,
-              "blockId": "27a8184b-98a9-4359-ad5e-bcb8984fb6b1",
-              "category": "roomtype_thumbnail"
-            },
-            {
-              "id": "5468cb80-4e43-405d-adde-d2e65e19c8bb",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/roomtype_thumbnail/1788400977088-o86udqenkj.jpg",
-              "sortOrder": 26,
-              "description": "",
-              "isSelected": false,
-              "blockId": "27a8184b-98a9-4359-ad5e-bcb8984fb6b1",
-              "category": "roomtype_thumbnail"
-            },
-            {
-              "id": "7feb1335-12b3-4079-a04e-076fe7732d67",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/roomtype_thumbnail/1788400976059-1e9enu0ssx.jpg",
-              "sortOrder": 27,
-              "description": "",
-              "isSelected": false,
-              "blockId": "27a8184b-98a9-4359-ad5e-bcb8984fb6b1",
-              "category": "roomtype_thumbnail"
-            },
-            {
-              "id": "cdb16d02-f295-42e0-bf01-534b977405b5",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/roomtype_thumbnail/1788400974981-9jchk1s9xd.jpg",
-              "sortOrder": 28,
-              "description": "",
-              "isSelected": false,
-              "blockId": "27a8184b-98a9-4359-ad5e-bcb8984fb6b1",
-              "category": "roomtype_thumbnail"
-            },
-            {
-              "id": "d305eef0-0fc2-4876-8c23-7a9a3a97f426",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/roomtype_thumbnail/1788400974382-el1es48oe2.jpg",
-              "sortOrder": 29,
-              "description": "",
-              "isSelected": false,
               "blockId": "27a8184b-98a9-4359-ad5e-bcb8984fb6b1",
               "category": "roomtype_thumbnail"
             },
@@ -9412,7 +9360,8 @@
               "blockId": "27a8184b-98a9-4359-ad5e-bcb8984fb6b1",
               "category": "roomtype_floorplan"
             }
-          ]
+          ],
+          "groupName": "디럭스 온돌"
         },
         {
           "id": "24b99f9d-fad5-44ae-b0f2-2e51380fd775",
@@ -9420,7 +9369,7 @@
             {
               "id": "d84b1d6a-d781-4efc-8073-a53a299e9229",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/roomtype_thumbnail/1788400978784-rj55v78u50.jpg",
-              "sortOrder": 30,
+              "sortOrder": 23,
               "description": "",
               "isSelected": true,
               "blockId": "24b99f9d-fad5-44ae-b0f2-2e51380fd775",
@@ -9534,7 +9483,8 @@
               "blockId": "24b99f9d-fad5-44ae-b0f2-2e51380fd775",
               "category": "roomtype_floorplan"
             }
-          ]
+          ],
+          "groupName": "디럭스 온돌"
         },
         {
           "id": "da40575e-ae23-4240-b30e-bd2cba81d5de",
@@ -9542,7 +9492,7 @@
             {
               "id": "cfd5bcd8-d061-40cf-a9ae-658784b22713",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/roomtype_thumbnail/1788400981484-jeacdft0vu.jpg",
-              "sortOrder": 31,
+              "sortOrder": 24,
               "description": "",
               "isSelected": true,
               "blockId": "da40575e-ae23-4240-b30e-bd2cba81d5de",
@@ -9665,7 +9615,8 @@
               "blockId": "da40575e-ae23-4240-b30e-bd2cba81d5de",
               "category": "roomtype_floorplan"
             }
-          ]
+          ],
+          "groupName": "디럭스 온돌"
         },
         {
           "id": "d9810ae9-54bf-4b28-8d33-82961c60d9c6",
@@ -9673,7 +9624,7 @@
             {
               "id": "582a3ceb-6d59-43ff-a290-00205fdf3d17",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/roomtype_thumbnail/1788400975457-g677uvjbvy.jpg",
-              "sortOrder": 32,
+              "sortOrder": 25,
               "description": "",
               "isSelected": true,
               "blockId": "d9810ae9-54bf-4b28-8d33-82961c60d9c6",
@@ -9796,7 +9747,8 @@
               "blockId": "d9810ae9-54bf-4b28-8d33-82961c60d9c6",
               "category": "roomtype_floorplan"
             }
-          ]
+          ],
+          "groupName": "디럭스 온돌"
         },
         {
           "id": "681b9a87-2e9b-459e-a736-10c4c57e42a5",
@@ -9804,7 +9756,7 @@
             {
               "id": "d20c9d6c-22dc-4eec-b509-38fc285b5b29",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/roomtype_thumbnail/1788400974362-lehdx922p7.jpg",
-              "sortOrder": 33,
+              "sortOrder": 26,
               "description": "",
               "isSelected": true,
               "blockId": "681b9a87-2e9b-459e-a736-10c4c57e42a5",
@@ -9927,7 +9879,8 @@
               "blockId": "681b9a87-2e9b-459e-a736-10c4c57e42a5",
               "category": "roomtype_floorplan"
             }
-          ]
+          ],
+          "groupName": "디럭스 온돌"
         },
         {
           "id": "b768b52e-0617-43cd-bb7c-580cc067b9e5",
@@ -9935,7 +9888,7 @@
             {
               "id": "24128cf0-9869-4b9b-94a3-7cb76da7c0f0",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/roomtype_thumbnail/1788400974381-57rmgubzsg.jpg",
-              "sortOrder": 34,
+              "sortOrder": 27,
               "description": "",
               "isSelected": true,
               "blockId": "b768b52e-0617-43cd-bb7c-580cc067b9e5",
@@ -10058,7 +10011,8 @@
               "blockId": "b768b52e-0617-43cd-bb7c-580cc067b9e5",
               "category": "roomtype_floorplan"
             }
-          ]
+          ],
+          "groupName": "디럭스 온돌"
         },
         {
           "id": "c8ba0a90-5f9f-497a-97ab-5e173f391c1b",
@@ -10066,7 +10020,7 @@
             {
               "id": "1441a4b5-01e4-4b3f-b8db-9e6cb389912b",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/roomtype_thumbnail/1788400977256-pmdxv1dohl.jpg",
-              "sortOrder": 35,
+              "sortOrder": 28,
               "description": "",
               "isSelected": true,
               "blockId": "c8ba0a90-5f9f-497a-97ab-5e173f391c1b",
@@ -10225,7 +10179,8 @@
               "blockId": "c8ba0a90-5f9f-497a-97ab-5e173f391c1b",
               "category": "roomtype_floorplan"
             }
-          ]
+          ],
+          "groupName": "패밀리"
         },
         {
           "id": "bbdcd8dd-848a-4942-90ac-09d7d67870fd",
@@ -10233,7 +10188,7 @@
             {
               "id": "6e384aea-664c-4f36-8908-6409bf173161",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/roomtype_thumbnail/1788400974481-10av8y3tda.jpg",
-              "sortOrder": 36,
+              "sortOrder": 29,
               "description": "",
               "isSelected": true,
               "blockId": "bbdcd8dd-848a-4942-90ac-09d7d67870fd",
@@ -10392,7 +10347,8 @@
               "blockId": "bbdcd8dd-848a-4942-90ac-09d7d67870fd",
               "category": "roomtype_floorplan"
             }
-          ]
+          ],
+          "groupName": "패밀리"
         },
         {
           "id": "19be9e45-dc7e-40ab-b548-cbc346b3d45f",
@@ -10400,7 +10356,7 @@
             {
               "id": "08e4576f-d1b7-4dc8-bb1c-a0b9f0e6f08a",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/roomtype_thumbnail/1788400977360-jgc5qo5otw.jpg",
-              "sortOrder": 37,
+              "sortOrder": 30,
               "description": "",
               "isSelected": true,
               "blockId": "19be9e45-dc7e-40ab-b548-cbc346b3d45f",
@@ -10559,7 +10515,8 @@
               "blockId": "19be9e45-dc7e-40ab-b548-cbc346b3d45f",
               "category": "roomtype_floorplan"
             }
-          ]
+          ],
+          "groupName": "패밀리"
         }
       ]
     }
