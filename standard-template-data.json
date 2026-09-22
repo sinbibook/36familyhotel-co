@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.42.0",
-    "generatedAt": "2026-09-22T06:22:41.467815464Z",
+    "version": "1.43.0",
+    "generatedAt": "2026-09-22T06:34:48.807323133Z",
     "templateType": "fullpage_mood",
     "propertyId": "1d639621-9275-42e0-88b6-d7d51818fdca",
     "homepageId": "268e84a3-a552-4402-8413-1079c36abdca"
@@ -6402,7 +6402,8 @@
               "blockId": "27ba583e-45b8-4af2-9835-a595370d9618",
               "category": "roomtype_exterior"
             }
-          ]
+          ],
+          "groupName": "스위트"
         },
         {
           "id": "766b5b5b-6429-4d67-8c80-07da3e0e2786",
@@ -6542,7 +6543,8 @@
               "blockId": "766b5b5b-6429-4d67-8c80-07da3e0e2786",
               "category": "roomtype_exterior"
             }
-          ]
+          ],
+          "groupName": "스위트"
         },
         {
           "id": "6edd83be-dde1-4567-870f-cfe276115dde",
@@ -6691,7 +6693,8 @@
               "blockId": "6edd83be-dde1-4567-870f-cfe276115dde",
               "category": "roomtype_exterior"
             }
-          ]
+          ],
+          "groupName": "스위트"
         },
         {
           "id": "f08189ff-9950-4fe5-8efc-484e209e627d",
@@ -6831,7 +6834,8 @@
               "blockId": "f08189ff-9950-4fe5-8efc-484e209e627d",
               "category": "roomtype_exterior"
             }
-          ]
+          ],
+          "groupName": "스위트"
         },
         {
           "id": "1c52bf37-e905-4695-9fcf-516310a01a3e",
@@ -6989,7 +6993,8 @@
               "blockId": "1c52bf37-e905-4695-9fcf-516310a01a3e",
               "category": "roomtype_exterior"
             }
-          ]
+          ],
+          "groupName": "스위트"
         },
         {
           "id": "70be40d6-1e9c-4352-a350-bb52beef8e4c",
@@ -7129,7 +7134,8 @@
               "blockId": "70be40d6-1e9c-4352-a350-bb52beef8e4c",
               "category": "roomtype_exterior"
             }
-          ]
+          ],
+          "groupName": "스위트"
         },
         {
           "id": "ee0bfd2e-136e-4796-a219-8c48b7fd99e1",
@@ -7259,8 +7265,18 @@
               "isSelected": true,
               "blockId": "ee0bfd2e-136e-4796-a219-8c48b7fd99e1",
               "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a0c7d2-d3f7-73f5-9565-4c21f0e76ad2",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/roomtype_floorplan/1790058876465-7wr7bxs8qc.jpg",
+              "sortOrder": 22,
+              "description": "",
+              "isSelected": true,
+              "blockId": "ee0bfd2e-136e-4796-a219-8c48b7fd99e1",
+              "category": "roomtype_floorplan"
             }
-          ]
+          ],
+          "groupName": "프리미엄 디럭스"
         },
         {
           "id": "fbd4c104-89da-4959-8b8a-0ebd990b2719",
@@ -7381,8 +7397,18 @@
               "isSelected": true,
               "blockId": "fbd4c104-89da-4959-8b8a-0ebd990b2719",
               "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a0c7d2-d203-743e-bef8-a8b64096e735",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/roomtype_floorplan/1790058876467-zjmwsbyyq5.jpg",
+              "sortOrder": 23,
+              "description": "",
+              "isSelected": true,
+              "blockId": "fbd4c104-89da-4959-8b8a-0ebd990b2719",
+              "category": "roomtype_floorplan"
             }
-          ]
+          ],
+          "groupName": "프리미엄 디럭스"
         },
         {
           "id": "9a73746e-db53-46ae-9802-093c7d610974",
@@ -7512,8 +7538,18 @@
               "isSelected": true,
               "blockId": "9a73746e-db53-46ae-9802-093c7d610974",
               "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a0c7d2-d0da-70fb-9ff9-1a6d65efe60e",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/268e84a3-a552-4402-8413-1079c36abdca/roomtype_floorplan/1790058876474-0bugv2zyec.jpg",
+              "sortOrder": 24,
+              "description": "",
+              "isSelected": true,
+              "blockId": "9a73746e-db53-46ae-9802-093c7d610974",
+              "category": "roomtype_floorplan"
             }
-          ]
+          ],
+          "groupName": "프리미엄 디럭스"
         },
         {
           "id": "42f3bba8-4264-4940-9548-6b1c910ded1f",
@@ -7644,7 +7680,8 @@
               "blockId": "42f3bba8-4264-4940-9548-6b1c910ded1f",
               "category": "roomtype_floorplan"
             }
-          ]
+          ],
+          "groupName": "디럭스"
         },
         {
           "id": "d42aa221-eb66-44f6-a1a3-af96c5435de1",
