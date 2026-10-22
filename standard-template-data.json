@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.51.0",
-    "generatedAt": "2026-10-22T01:46:11.411340490Z",
+    "version": "1.52.0",
+    "generatedAt": "2026-10-22T09:47:33.060075520Z",
     "templateType": "fullpage_mood",
     "propertyId": "1d639621-9275-42e0-88b6-d7d51818fdca",
     "homepageId": "268e84a3-a552-4402-8413-1079c36abdca"
@@ -590,8 +590,8 @@
       {
         "thumbnail": [
           {
-            "id": "af683705-b210-4cf5-96df-368dca676b19",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/2aewWSkBiysJ.jpg",
+            "id": "01a16157-0b7d-7413-85d3-ecee060e0eac",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/22/4ek7rls59zDt.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
@@ -600,113 +600,113 @@
         ],
         "exterior": [
           {
-            "id": "8e457e3d-d294-42e9-8735-b4f25a78b93c",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/p7t8ei03jWkz.jpg",
+            "id": "01a16157-0b7e-729d-9cf5-5ae017a9bc13",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/22/YvDH2PSUgfkE.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "47f47f17-2988-41eb-bd07-ce3a82777cba",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/LZ16tYxeB4qS.jpg",
+            "id": "01a16157-0b7e-73fc-8d9b-2c541653e46c",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/22/Ah9ds6JunFwy.jpg",
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "19344491-06b0-4a67-8824-8a310f35ce75",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/9AwVEGFRvC6e.jpg",
+            "id": "01a16157-0b7e-7483-a1f4-19484bd81f29",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/22/SdpNhsuKYQb8.jpg",
             "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "4b4e9d16-374d-4f81-99f1-916d50e761a4",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/1G2MOJk9ZBX3.jpg",
+            "id": "01a16157-0b7e-7642-aa24-6df9efbff6fe",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/22/cuHernEgFxQK.jpg",
             "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "9c61f0fe-be20-4d8e-8eaa-01c7521198dc",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/jer04cCNB7qE.jpg",
+            "id": "01a16157-0b7e-7799-a511-a5c2e79691fc",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/22/Rnce9BXGK8rA.jpg",
             "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "4db7f61b-af19-441c-9a1d-b224e4d1c8e6",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/TcL3StIONrQk.jpg",
+            "id": "01a16157-0b7e-7945-8daf-f9aca69b0a4b",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/22/MOBZVyW6t4GS.jpg",
             "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "975617e7-5daa-4f74-86b7-308045b3277d",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/VktLTHSP5E0p.jpg",
+            "id": "01a16157-0b7e-7a39-be21-39bfc9cf386d",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/22/G5LdhzNvep67.jpg",
             "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "88bb22ca-724b-4ce1-80dc-f87104c27ec4",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/txPlespuYiVj.jpg",
+            "id": "01a16157-0b7e-7b53-9933-591d55b4d22a",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/22/RZBbFViT8hgX.jpg",
             "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "0518d172-ad64-4aad-897a-93c2d3e3f40c",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/z5wUZpkT21Ye.jpg",
+            "id": "01a16157-0b7e-7c40-b267-1a0d4bc93d76",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/22/sfuJIb6YHAUK.jpg",
             "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "d335460b-a40b-45c7-9b1a-d1348b1397b0",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/w6VkK1SxUpi0.jpg",
+            "id": "01a16157-0b7e-7d38-a42f-42a1b4086ea2",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/22/sp3lCJi4tANW.jpg",
             "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "911aaeff-26c7-4e75-8bb7-b8eac6d2530f",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/D1m9uAIR6stP.jpg",
+            "id": "01a16157-0b7e-7daf-b907-6793cfb63f2f",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/22/upsJfVwYq7yo.jpg",
             "sortOrder": 12,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "0b139d8c-c94c-4405-bd6b-ae9012430800",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/svHUYWGbhrfC.jpg",
+            "id": "01a16157-0b7e-7e98-979d-b865f546c873",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/22/k6ahsOJMPuID.jpg",
+            "sortOrder": 13,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a16157-0b7e-7f99-8a6d-db01f708c1f4",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/22/k5nOelqGzNaK.jpg",
             "sortOrder": 14,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "6f1aa10e-5ac8-466b-b0c8-bfb000e42a45",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/sByqkwJcILad.jpg",
+            "id": "01a16157-0b7f-712c-842c-58c2f81668ea",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/22/kqmChzZl8Gf2.jpg",
             "sortOrder": 15,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "d87b337b-9053-4ea9-a519-5930e5aebc44",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/sL4AzGCQcwBu.jpg",
-            "sortOrder": 16,
             "description": "",
             "isSelected": true,
             "blockId": null

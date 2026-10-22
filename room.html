@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="data:,">
-    <title>영흥도 36스테이 펜션 - 객실안내</title>
+    <title>대부도(영흥도) 36스테이 오션뷰 펜션 - 객실안내</title>
 
     <!-- Stylesheets -->
     <link rel="stylesheet" href="./styles/theme.css">
@@ -24,16 +24,16 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=The+Nautigal:wght@400;700&display=swap">
   <!-- Open Graph Meta Tags for Social Media -->
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="영흥도 36스테이 펜션 - 객실안내" />
-  <meta property="og:description" content="영흥도 바다 앞에서 실내 미온수 수영장과 개별 전기그릴 바비큐를 즐길 수 있는 펜션입니다." />
-  <meta property="og:image" content="https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/2aewWSkBiysJ.jpg" />
+  <meta property="og:title" content="대부도(영흥도) 36스테이 오션뷰 펜션 - 객실안내" />
+  <meta property="og:description" content="영흥도 오션뷰 펜션 36스테이, 바다가 보이는 실내 미온수 수영장과 테라스 개별바베큐, 키즈카페까지 갖춘 영흥도 가족여행 숙소입니다." />
+  <meta property="og:image" content="https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/22/4ek7rls59zDt.jpg" />
   <meta property="og:url" content="https://36familyhotel.co.kr" />
 
   <!-- Twitter Card Meta Tags -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="영흥도 36스테이 펜션 - 객실안내" />
-  <meta name="twitter:description" content="영흥도 바다 앞에서 실내 미온수 수영장과 개별 전기그릴 바비큐를 즐길 수 있는 펜션입니다." />
-  <meta name="twitter:image" content="https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/02/2aewWSkBiysJ.jpg" />
+  <meta name="twitter:title" content="대부도(영흥도) 36스테이 오션뷰 펜션 - 객실안내" />
+  <meta name="twitter:description" content="영흥도 오션뷰 펜션 36스테이, 바다가 보이는 실내 미온수 수영장과 테라스 개별바베큐, 키즈카페까지 갖춘 영흥도 가족여행 숙소입니다." />
+  <meta name="twitter:image" content="https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/22/4ek7rls59zDt.jpg" />
   <meta name="naver-site-verification" content="1dd74be5e8d8a303d5019d534d22e6325ded164d" />
   <meta name="google-site-verification" content="k9mp7Ll8eylNkk_TallAWJTwKmzuz2KRzJA-UdQt3ZQ" />
 </head>
@@ -74,6 +74,12 @@
           </div>
         </section>
       </main>
+
+      <!-- ===================== ROOM GROUP TABS (같은 groupName으로 묶인 객실 간 전환) ===================== -->
+      <!-- data-* : data-room-group-tabs | 현재 객실이 멤버 2개 이상인 그룹에 속할 때만 노출 (room-mapper.js: mapRoomTabs) -->
+      <nav class="room-group-tabs" data-room-group-tabs style="display: none;">
+        <!-- 동적 생성 -->
+      </nav>
 
       <!-- ===================== ROOM INFO 섹션 (Room info + 큰 이미지 + 4개 썸네일) ===================== -->
       <section class="room-info-section">
@@ -157,6 +163,18 @@
           </div>
         </div>
       </main>
+
+      <!-- ===================== ROOM FLOORPLAN 섹션 (객실 평면도, 크롤링 이미지가 있을 때만 노출) ===================== -->
+      <!-- data-* : data-room-floorplan-section / data-room-floorplan-image
+           roomtypes[current]의 roomtype_floorplan 이미지 → 없으면 섹션 전체 미노출 (room-mapper.js) -->
+      <section class="room-floorplan-section" data-room-floorplan-section style="display: none;">
+        <div class="room-floorplan-header">
+          <h2 class="room-floorplan-title">Floor Plan</h2>
+        </div>
+        <div class="room-floorplan-image-wrap">
+          <img class="room-floorplan-image" alt="객실 평면도" data-room-floorplan-image />
+        </div>
+      </section>
 
       <!-- ===================== CON3 (Roomview - 4개 카테고리 + 미리보기) 별도 섹션 ===================== -->
       <section class="con3-parent">
